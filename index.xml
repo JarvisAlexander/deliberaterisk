@@ -7,8 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 01 Oct 2016 19:51:17 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 14 Oct 2016 15:50:19 -0500</lastBuildDate>
     <atom:link href="http://deliberaterisk.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What Language Are You Speaking?</title>
+      <link>http://deliberaterisk.com/post/language_are_you_speaking/</link>
+      <pubDate>Fri, 14 Oct 2016 15:50:19 -0500</pubDate>
+      
+      <guid>http://deliberaterisk.com/post/language_are_you_speaking/</guid>
+      <description>&lt;p&gt;Before I start exploring the concepts or risk, I need address
+how I define commonly used jargon. Essentially,
+I want to create a risk vocabulary in which readers can more
+clearly understand my work based on how I am using specific words.
+ In most instances, this will not be an issue. My goal is to make my
+ writing clear and concise. I will strive to use
+simpler words and shorter sentences. However, there are certainty commonly
+used jargon that I won&amp;rsquo;t be able to avoid.&lt;/p&gt;
+
+&lt;p&gt;In general, any terms that I use will follow the definition
+presented in the
+&lt;a href=&#34;https://www.cfainstitute.org/learning/tools/glossary/Pages/index.aspx&#34;&gt;CFA Glossary&lt;/a&gt;.
+Throughout my writing I will refer various
+CFA articles and quote relevant CFA publications when explaining financial
+concepts. Mainly because I am a CFA charter holder and a vast majority of my
+fundamental knowledge in the area of risk management comes from the study
+material that I used while I was a CFA candidate. But also because the CFA
+institute and its members have consistently demonstrated a high level of
+expertise in various financial subjects and this has translated into the
+production of well regarded research and publications.&lt;/p&gt;
+
+&lt;p&gt;Instead of constantly linking back to the &lt;a href=&#34;https://www.cfainstitute.org/learning/tools/glossary/Pages/index.aspx&#34;&gt;CFA Glossary&lt;/a&gt;,
+as I continue to write on various subjects, when there are certain words
+or concepts that I either frequently reference or have become the basis to
+important discussions I will define them on the &amp;ldquo;Risk Vocabulary&amp;rdquo; page.&lt;/p&gt;
+
+&lt;p&gt;Similar to all of my work on this blog, the
+&lt;a href=&#34;www.deliberaterisk.com/risk-vocab/&#34;&gt;Risk Vocabulary page&lt;/a&gt; is a work in
+progress. My hope is that it will always be forward progress.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome to the Deliberate Risk Blog</title>
@@ -66,7 +104,40 @@ phycology(to name a few); and&lt;/li&gt;
       
       <guid>http://deliberaterisk.com/about/</guid>
       <description>&lt;p&gt;DeliberateRisk.com is an attempt to memorialize my ideas and research into
-areas of risk measurement and risk management.&lt;/p&gt;
+areas of risk measurement and risk management. Whether you think about it or not
+the application of risk management is an important part of everyone&amp;rsquo;s life.
+Like it or not, most decisions have some sort or risk analysis component to it.
+Whether you&amp;rsquo;re shopping for groceries, going to the gym, or working at a job,
+every aspect of our life entails a risk decision. I want this blog to be an
+exploration on the computer concepts that involve risk measurement, and risk
+decisions. This blog will act as a journal of the theories I wish to understand,
+ideas I would like to explore, and risk analysis and assessment of which
+I would like to master. I&amp;rsquo;m going to play around with applying the concept
+of deliberate risk to all areas of ones life.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Risk Vocabulary</title>
+      <link>http://deliberaterisk.com/risk-vocab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://deliberaterisk.com/risk-vocab/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.cfainstitute.org/learning/tools/glossary/Pages/index.aspx&#34;&gt;CFA Glossary&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;risk&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;fitness&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;risk alignment&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;fitness&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;asset&lt;/strong&gt;: An asset is anything tangible or intangible that is capable
+of being owned or produced to create value. In this case we are talking about
+investments. An asset class is a group of assets with similar attributes.
+Asset classes are not highly correlated with each other and asset with each
+class can only fit into one class. Finally, the sum of all assets in each
+class should cover the majority of investable assets and contain a sufficient
+number of liquid investable assets.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

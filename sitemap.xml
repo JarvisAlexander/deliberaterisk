@@ -3,7 +3,12 @@
   
   <url>
     <loc>http://deliberaterisk.com/</loc>
-    <lastmod>2016-10-01T19:51:17-05:00</lastmod>
+    <lastmod>2016-10-14T15:50:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://deliberaterisk.com/post/language_are_you_speaking/</loc>
+    <lastmod>2016-10-14T15:50:19-05:00</lastmod>
   </url>
   
   <url>
@@ -14,6 +19,10 @@
   <url>
     <loc>http://deliberaterisk.com/about/</loc>
     <lastmod>2014-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://deliberaterisk.com/risk-vocab/</loc>
   </url>
   
 </urlset>
