@@ -2,97 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deliberate Risk Blog</title>
-    <link>http://deliberaterisk.com/</link>
+    <link>http://deliberaterisk.com/index.xml</link>
     <description>Recent content on Deliberate Risk Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 14 Oct 2016 15:50:19 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2017 14:02:13 +0000</lastBuildDate>
     <atom:link href="http://deliberaterisk.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>What Language Are You Speaking?</title>
-      <link>http://deliberaterisk.com/post/language_are_you_speaking/</link>
-      <pubDate>Fri, 14 Oct 2016 15:50:19 -0500</pubDate>
-      
-      <guid>http://deliberaterisk.com/post/language_are_you_speaking/</guid>
-      <description>&lt;p&gt;Before I start exploring the concepts or risk, I need address
-how I define commonly used jargon. Essentially,
-I want to create a risk vocabulary in which readers can more
-clearly understand my work based on how I am using specific words.
- In most instances, this will not be an issue. My goal is to make my
- writing clear and concise. I will strive to use
-simpler words and shorter sentences. However, there are certainty commonly
-used jargon that I won&amp;rsquo;t be able to avoid.&lt;/p&gt;
-
-&lt;p&gt;In general, any terms that I use will follow the definition
-presented in the
-&lt;a href=&#34;https://www.cfainstitute.org/learning/tools/glossary/Pages/index.aspx&#34;&gt;CFA Glossary&lt;/a&gt;.
-Throughout my writing I will refer various
-CFA articles and quote relevant CFA publications when explaining financial
-concepts. Mainly because I am a CFA charter holder and a vast majority of my
-fundamental knowledge in the area of risk management comes from the study
-material that I used while I was a CFA candidate. But also because the CFA
-institute and its members have consistently demonstrated a high level of
-expertise in various financial subjects and this has translated into the
-production of well regarded research and publications.&lt;/p&gt;
-
-&lt;p&gt;Instead of constantly linking back to the &lt;a href=&#34;https://www.cfainstitute.org/learning/tools/glossary/Pages/index.aspx&#34;&gt;CFA Glossary&lt;/a&gt;,
-as I continue to write on various subjects, when there are certain words
-or concepts that I either frequently reference or have become the basis to
-important discussions I will define them on the &amp;ldquo;Risk Vocabulary&amp;rdquo; page.&lt;/p&gt;
-
-&lt;p&gt;Similar to all of my work on this blog, the
-&lt;a href=&#34;www.deliberaterisk.com/risk-vocab/&#34;&gt;Risk Vocabulary page&lt;/a&gt; is a work in
-progress. My hope is that it will always be forward progress.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Welcome to the Deliberate Risk Blog</title>
       <link>http://deliberaterisk.com/post/firstpost/</link>
-      <pubDate>Sat, 01 Oct 2016 19:51:17 -0500</pubDate>
+      <pubDate>Sat, 01 Apr 2017 14:02:13 +0000</pubDate>
       
       <guid>http://deliberaterisk.com/post/firstpost/</guid>
-      <description>&lt;p&gt;Welcome to my new blog DeliberateRisk.com! My goal is to use this blog as
-a platform to document my ideas on risk and risk management. When we think
-of risk and risk management we using think of financial risk management (e.g.,
-insurance, banking, enterprise) and certainty those are areas that I have
-a strong interest in. However given this is my personal blog, I don&amp;rsquo;t want to
-be so narrow in my exploration in the concepts of risk. Through this blog, I&amp;rsquo;ll
-explore risk in all aspects of life, from career development to fitness &amp;amp; health,
-and from raising kids to rest &amp;amp; relaxation. Although inquiries into these areas
-may not benefit me monetarily, I believe that the intangible benefit in relation
-to:
-* A greater understanding the known risk in these areas;
-* A better appreciation of the unquantifiable risks;
-* Practicing statistical methods; and
-* Improving my writing skills in different styles.&lt;/p&gt;
+      <description>&lt;p&gt;Welcome to my new blog, DeliberateRisk.com! My goal is to use this blog as a platform to document my ideas on risk and risk management. When we think of risk and risk management we usually think of financial risk management (e.g., insurance, banking, enterprise) and certainty these are areas that I have a strong interest in. However given this is my personal blog, I don&amp;rsquo;t want to be so narrow in my exploration of the concepts of risk. Through this blog, I&amp;rsquo;ll explore risk in all aspects of life, from career development to fitness &amp;amp; health; from raising kids to rest &amp;amp; relaxation. Although inquiries into these areas may not benefit me monetarily, I will gain so many intangible benefits including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A greater understanding of risk metrics;&lt;/li&gt;
+&lt;li&gt;A better appreciation of unquantifiable risks;&lt;/li&gt;
+&lt;li&gt;Deliberate practice with statistical methods and models; and&lt;/li&gt;
+&lt;li&gt;An Improvement in my overall writing skills.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;My goal for this blog is pretty simple:&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Create a living repository of my work as it relates to the study of risk.&lt;/li&gt;
 &lt;li&gt;Display my competency in the area of data and risk analysis.&lt;/li&gt;
-&lt;li&gt;Demonstrate how risk management is applicable outside of the financial
-and business enterprise scope.&lt;/li&gt;
+&lt;li&gt;Demonstrate how risk management is applicable outside of the financial and business enterprise disciplines.&lt;/li&gt;
 &lt;li&gt;Create practical applications of risk management as it relates
 to a wide range of topics.&lt;/li&gt;
-&lt;li&gt;Share interesting information (e.g., articles, books, podcasts, etc..)
-that contribute to the conversation of risk.&lt;/li&gt;
+&lt;li&gt;Share interesting information (e.g., articles, books, podcasts, etc..) that contribute to the conversation of risk.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Ultimately, this blog is my way of pursuing  excellence, as stated so
-eloquently in the book the Just City by Jo Walton.&lt;/p&gt;
+&lt;p&gt;Ultimately, this blog is my way of pursuing excellence, as stated so eloquently in the book the Just City by Jo Walton.&lt;/p&gt;
 
-&lt;p&gt;I hope that overtime, the work that purse through this blog wil:&lt;/p&gt;
+&lt;p&gt;I hope that overtime, the work that I pursue through this blog will lead me to to a:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Improved writing skills, both technical and creative;&lt;/li&gt;
-&lt;li&gt;Deeper understanding in the theoretical basis of risk management, general
-involving statistics, philosophy, finance, fitness, and
-phycology(to name a few); and&lt;/li&gt;
-&lt;li&gt;Me having fun, and continuing to enjoy life to the fullest.&lt;/li&gt;
+&lt;li&gt;Deeper understanding of the theoretical basis of risk management, related to statistics, philosophy, finance, fitness, and phycology(to name a few); and&lt;/li&gt;
+&lt;li&gt;Act as an intellectual escape leading to my continued enjoyment of life.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -100,33 +50,54 @@ phycology(to name a few); and&lt;/li&gt;
     <item>
       <title>About</title>
       <link>http://deliberaterisk.com/about/</link>
-      <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Apr 2017 14:01:20 +0000</pubDate>
       
       <guid>http://deliberaterisk.com/about/</guid>
-      <description>&lt;p&gt;DeliberateRisk.com is an attempt to memorialize my ideas and research into
-areas of risk measurement and risk management. Whether you think about it or not
-the application of risk management is an important part of everyone&amp;rsquo;s life.
-Like it or not, most decisions have some sort or risk analysis component to it.
-Whether you&amp;rsquo;re shopping for groceries, going to the gym, or working at a job,
-every aspect of our life entails a risk decision. I want this blog to be an
-exploration on the computer concepts that involve risk measurement, and risk
-decisions. This blog will act as a journal of the theories I wish to understand,
-ideas I would like to explore, and risk analysis and assessment of which
-I would like to master. I&amp;rsquo;m going to play around with applying the concept
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;I know this game got valleys and peaks&lt;/p&gt;
+
+&lt;p&gt;Expectation for dips,&lt;/p&gt;
+
+&lt;p&gt;For precipitation we stack chips, hardly&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Jay - Z Can I Live&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My name is Jarvis Alexander and I see the ideas of risk management discussed in all parts of life, even the music I listen to. DeliberateRisk.com my attempt to memorialize my ideas and research in the
+areas of risk measurement and risk management. Although the concepts and tools will be similar to what is utilized in the financial sector, I will not discuss financial topics in my blog. Instead, I wish to explore how we can use risk management tools in various parts of our life, from health and fitness, to productivity and happiness. While I admit that there is nothing novel about my approach, my hope is that writings will positively contribute to the discourse.&lt;/p&gt;
+
+&lt;p&gt;Whether you think about it or not
+the application of risk management is an important part of everyone&amp;rsquo;s life. Like it or not, most decisions have some sort or risk analysis component to it. Whether you&amp;rsquo;re shopping for groceries, going to the gym, or working at a job,
+every aspect of our life entails a risk decision. I want this blog to be an exploration on the computer concepts that involve risk measurement, and risk decisions. This blog will act as a journal of the theories I wish to understand,
+ideas I would like to explore, and risk analysis and assessment of which I would like to master. I&amp;rsquo;m going to play around with applying the concept
 of deliberate risk to all areas of ones life.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Risk Vocabulary</title>
-      <link>http://deliberaterisk.com/risk-vocab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Workflow</title>
+      <link>http://deliberaterisk.com/Workflow/</link>
+      <pubDate>Sat, 01 Apr 2017 14:00:51 +0000</pubDate>
       
-      <guid>http://deliberaterisk.com/risk-vocab/</guid>
+      <guid>http://deliberaterisk.com/Workflow/</guid>
+      <description>&lt;p&gt;Comming Soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Risk Vocabulary</title>
+      <link>http://deliberaterisk.com/risk_vocab/</link>
+      <pubDate>Sat, 01 Apr 2017 14:00:38 +0000</pubDate>
+      
+      <guid>http://deliberaterisk.com/risk_vocab/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.cfainstitute.org/learning/tools/glossary/Pages/index.aspx&#34;&gt;CFA Glossary&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;risk&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Likely&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unlikely&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ex ante&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ex post&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;fitness&lt;/strong&gt;:&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;risk alignment&lt;/strong&gt;:&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;fitness&lt;/strong&gt;:&lt;/li&gt;
